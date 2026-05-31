@@ -1,14 +1,12 @@
-=<h1 align="center">Luiz Guilherme 👋</h1>
+<h1 align="center">Luiz Guilherme 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Desenvolvedor%20Full%20Stack-238636?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
-  Me chamo Luiz Guilherme, tenho 20 anos e sou natural de Cruzeiro — SP.<br/>
-  Atuo como desenvolvedor Full Stack, com foco em desenvolvimento web —<br/>
-  construindo interfaces modernas no frontend e APIs robustas no backend.<br/>
-  Atualmente curso Informática na ETEC.
+  Me chamo Luiz Guilherme, tenho 20 anos e sou natural de Cruzeiro — SP.
+  Atuo como desenvolvedor Full Stack com foco em desenvolvimento web, construindo interfaces modernas no frontend e APIs robustas no backend. Atualmente curso Informática na ETEC.
 </p>
 
 <p align="center">
