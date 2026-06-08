@@ -1,14 +1,11 @@
 <h1 align="center">Luiz Guilherme 👋</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Desenvolvedor%20Full%20Stack-238636?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-238636?style=for-the-badge&logoColor=white" />
 </p>
-
 <p align="center">
-  Me chamo Luiz Guilherme, tenho 20 anos e sou natural de Cruzeiro — SP.
-  Atuo como desenvolvedor Full Stack com foco em desenvolvimento web, construindo interfaces modernas no frontend e APIs robustas no backend. Atualmente curso Informática na ETEC.
+  My name is Luiz Guilherme, I'm 20 years old and I'm from Cruzeiro, São Paulo — Brazil.
+  I work as a Full Stack Developer focused on web development, building modern frontend interfaces and robust backend APIs. Currently studying Computer Science at ETEC.
 </p>
-
 <p align="center">
   <a href="https://www.instagram.com/luiz.kdu/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -23,16 +20,14 @@
 
 ---
 
-<h3 align="center">🖥️ Linguagens e Tecnologias</h3>
-
+<h3 align="center">🖥️ Languages & Technologies</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,react,ts,python,fastapi,tailwind,vite,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,react,ts,python,fastapi,tailwind,java,vite,git&theme=dark" />
 </p>
 
 ---
 
-<h3 align="center">📊 Estatísticas</h3>
-
+<h3 align="center">📊 Stats</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuizGuilhermeDev34&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LuizGuilhermeDev34&theme=tokyonight&hide_border=true" />
 </p>
